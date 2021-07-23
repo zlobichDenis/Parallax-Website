@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+}
+.container {
+  height: 100vh;
+  background-color: black;
+}
+.container img {
+  width: 100%;
+  position: absolute;
+}

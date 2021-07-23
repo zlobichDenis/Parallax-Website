@@ -14,7 +14,6 @@ nav {
 }
 .container {
   height: 100vh;
-
 }
 .container img {
   width: 100%;
@@ -32,6 +31,7 @@ nav {
 }
 
 .content {
+  position: absolute;
   width: 100%;
   background-color: rgb(24, 24, 24);
   min-height: 100vh;
